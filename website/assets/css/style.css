@@ -65,3 +65,11 @@ margin-top: -8px;
 .imgPortfolio{
     object-fit: cover;
 }
+
+.area-contact {
+    width: 800px;
+    height: 240px;
+    background: gainsboro;
+    margin: 0 auto;
+    padding: 15px 15px 20px 45px;
+}
