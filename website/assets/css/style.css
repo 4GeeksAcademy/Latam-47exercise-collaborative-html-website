@@ -62,3 +62,6 @@ margin-top: -8px;
 
 }
 
+.imgPortfolio{
+    object-fit: cover;
+}
